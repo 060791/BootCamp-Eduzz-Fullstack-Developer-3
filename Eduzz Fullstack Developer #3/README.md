@@ -12,4 +12,10 @@ Alguns dos desafios e arquivos do bootcamp estão nesse repositório:
 * Blobs
 * Cédulas 
 
+Alguns dos conteúdos abordados no bootcamp até agora:
+
+* Curso HTML e CSS
+* Scrum
+* MySQL
+
 ### Obrigado !!!
