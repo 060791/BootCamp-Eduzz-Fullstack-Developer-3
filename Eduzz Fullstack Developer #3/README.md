@@ -19,3 +19,5 @@ Alguns dos conteúdos abordados no bootcamp até agora:
 * MySQL
 
 ### Obrigado !!!
+
+* update 12/02/2022
