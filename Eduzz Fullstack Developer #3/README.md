@@ -25,3 +25,5 @@ Alguns dos conteúdos abordados no bootcamp até agora:
 * Typescript
 
 ### Obrigado !!!
+
+* update 12/02/2022
