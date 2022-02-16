@@ -11,11 +11,17 @@ Alguns dos desafios e arquivos do bootcamp estão nesse repositório:
 * Notas
 * Blobs
 * Cédulas 
+* Notas escolares
+* Calibragem dos Pneus
+* Triangulos e Polígonos
 
 Alguns dos conteúdos abordados no bootcamp até agora:
 
 * Curso HTML e CSS
 * Scrum
 * MySQL
+* NoSQL
+* Javascript
+* Typescript
 
 ### Obrigado !!!
